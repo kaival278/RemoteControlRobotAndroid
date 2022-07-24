@@ -5,7 +5,7 @@ L298N 2A - Two Piece
 Height Adjustment using 2 motors
 Servo Shaft MG995 (180) - 2 Required
 https://www.amazon.ca/Seamuing-Analog-Digital-Helicopter-Control/dp/B07GRMRH1Q/ref=sr_1_4?crid=1TTHHHG1OJUDL&keywords=Servo+Shaft+MG995&qid=1658686329&sprefix=servo+shaft+mg995%2Caps%2C77&sr=8-4
-Servo Shaft MG005 (360)
+Servo Shaft MG005 (360) - 1 required
 https://www.amazon.ca/Degree-Continuous-Rotation-Digital-Accessories/dp/B07JRFNTGC
 Side Shaft Gear Motor 100 RPM -12V - 4 Piece 
 https://www.pantechsolutions.net/johnson-side-shaft-geared-motor-made-in-india-12-v-dc-150-rpm
